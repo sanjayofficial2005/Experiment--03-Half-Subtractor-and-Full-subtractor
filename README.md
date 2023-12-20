@@ -68,7 +68,8 @@ endmodule
 
 ## Truthtable:
 ## Half subtractor:
-![Screenshot 2023-12-20 085703](https://github.com/sanjayofficial2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/148048602/af0d30f5-5adf-45d2-857c-630b2a68709f)
+![Screenshot 2023-12-20 085642](https://github.com/sanjayofficial2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/148048602/2202637e-ed8a-4b50-8ae3-7caa0b1efbbf)
+
 ## Full subtractor:
 ![Screenshot 2023-12-20 085651](https://github.com/sanjayofficial2005/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/148048602/6099de9a-053d-446e-a140-367882bc7b3b)
 
